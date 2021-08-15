@@ -1,0 +1,27 @@
+{
+	"name": "yue-gen",
+	"version": "1.0.6",
+	"description": "A yue.css generater.",
+	"main": "yue-gen.js",
+	"dependencies": {
+		"markdown-it": "^12.0.6",
+		"commander": "5.0.0"
+	},
+	"bin": {
+		"yue-gen": "./yue-gen.js"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Adkinsm2020/yue-css.git"
+	},
+	"author": "Adkinsm",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Adkinsm2020/yue-css/issues"
+	},
+	"homepage": "https://github.com/Adkinsm2020/yue-css#readme"
+}
