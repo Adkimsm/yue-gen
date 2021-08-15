@@ -22,6 +22,4 @@ yue-gen g D:\yue\ readme.md index.html
 
 Then, yue.css will translate the contents of readme.md to HTML and write it to index.html. This index.html will be created in D:\yue\.
 
-While translating, the style file in yue.css will be transferred to a style tag in index.html, so you can just write Markdown without worrying, and leave everything about HTML to yue-css.
-
-Translated with www.DeepL.com/Translator (free version)
+While translating, the style file in yue.css will be transferred to a style tag in index.html, so you can just write Markdown without worrying, and leave everything about HTML to yue-gen.
