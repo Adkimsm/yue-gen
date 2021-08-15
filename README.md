@@ -9,7 +9,7 @@
 Use npm to install:
 
 ```sh
-npm install -g yue-css
+npm install -g yue-gen
 ```
 
 ## Use
@@ -17,7 +17,7 @@ npm install -g yue-css
 If you have a Markdown file whose path is "D:\yue\readme.md" and you want to compile it into HTML, run this command.
 
 ```sh
-yue-css g D:\yue\ readme.md index.html
+yue-gen g D:\yue\ readme.md index.html
 ```
 
 Then, yue.css will translate the contents of readme.md to HTML and write it to index.html. This index.html will be created in D:\yue\.
