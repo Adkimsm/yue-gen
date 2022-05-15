@@ -12,6 +12,18 @@ Use npm to install:
 npm install -g yue-gen
 ```
 
+or yarn:
+
+```sh
+yarn global addd yue-gen
+```
+
+pnpm is aslo available:
+
+```sh
+pnpm install -g yue-gen
+```
+
 ## Use
 
 If you have a Markdown file whose path is "D:\yue\readme.md" and you want to compile it into HTML, run this command.
